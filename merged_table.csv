@@ -1,4 +1,4 @@
-Name,Sale Price,Category,Author,ISBN10,Pages,Publisher,Language,Dimensions,Weight,Rating
+ï»¿Name,Sale Price,Category,Author,ISBN10,Pages,Publisher,Language,Dimensions,Weight,Rating
 Origin,20.35,Books > Literature & Fiction > Action & Adventure,"Brown, Dan",385514239,717,Doubleday; 1st Edition edition ,English,6.3 x 1.6 x 9.6 inches,1.7 pounds,4
 We Were the Lucky Ones ,8.97,Books > Literature & Fiction > Genre Fiction,Georgia Hunter,399563091,416,Penguin Books; Reprint edition ,English,5.4 x 0.9 x 8.2 inches,11.4 ounces,4
 Fahrenheit 451 Paperback ,9.99,Books > Politics & Social Sciences > Politics & Government,Ray Bradbury,1451673310,256,Simon & Schuster; Reissue edition ,English,5.5 x 0.9 x 8.4 inches,6.2 ounces,4
@@ -35,7 +35,7 @@ Ramses the Damned,9.26,Books > Literature & Fiction > Genre Fiction,"Rice, AnneR
 Truly Madly Guilty Paperback ,13.89,Books > Literature & Fiction > Genre Fiction,Liane Moriarty,1250069807,544,Flatiron Books; Reprint edition ,English,5.5 x 1.4 x 8.2 inches,1 pounds,3
 The People vs. Alex Cross Hardcover ,19.37,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense",James Patterson,316273902,432,"Little, Brown and Company ",English,6.4 x 1.4 x 9.6 inches,1.9 pounds,4
 Echo Burning Jack Reacher,8.15,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense",Lee Child,515143820,592,Berkley; Reissue edition ,English,4.2 x 1.2 x 7.6 inches,11.2 ounces,4
-"Tinker, Tailor, Soldier, Spy ",13.06,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense",John le Carré,143119788,400,Penguin Books; Reprint edition ,English,5.5 x 1.1 x 8.2 inches,12 ounces,4
+"Tinker, Tailor, Soldier, Spy ",13.06,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense",John le CarrÃ©,143119788,400,Penguin Books; Reprint edition ,English,5.5 x 1.1 x 8.2 inches,12 ounces,4
 Gwendy's Button Box,12.61,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense",Stephen King Richard Chizmar,1501188291,176,Gallery Books; Reprint edition ,English,5.3 x 0.4 x 8.2 inches,5 ounces,4
 The Dark Tower VII ,9.99,Books > Literature & Fiction > Genre Fiction,Stephen King,1501161830,1072,Pocket Books; Reissue edition ,English,4.1 x 1.9 x 7.5 inches,1 pounds,4
 The Medical Examiner,4.49,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense",James Patterson Maxine Paetro,316504823,144,BookShots ,English,5 x 0.4 x 7 inches,5 ounces,4
@@ -91,7 +91,7 @@ The Girl with the Dragon Tattoo Millennium Series,7.99,"Books > Mystery, Thrille
 Without Fail Jack Reacher,7.99,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense",Lee Child,515144312,608,Berkley; Reprint edition ,English,4.2 x 1.2 x 7.5 inches,11.5 ounces,4
 Y is for Yesterday A Kinsey Millhone Novel,15.89,"Books > Mystery, Thriller & Suspense > Mystery",Sue Grafton,399163859,496,Marian Wood Books/Putnam; 1st Edition edition ,English,6.4 x 1.5 x 9.3 inches,1.6 pounds,4
 A Dog's Purpose ,8.69,Books > Literature & Fiction > Genre Fiction,W. Bruce Cameron,765388111,336,Forge Books; Media Tie In edition ,English,5.4 x 1 x 8.3 inches,1 pounds,4
-Dark Matter,15.0,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense","Crouch, Blake",1101904240,368,Broadway Books; Reprint edition ,English,5.2 x 0.8 x 8 inches,10.4 ounces,4
+Dark Matter,15,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense","Crouch, Blake",1101904240,368,Broadway Books; Reprint edition ,English,5.2 x 0.8 x 8 inches,10.4 ounces,4
 Aftermath,9.94,Books > Literature & Fiction > Genre Fiction,"WENDIG, CHUCK",1101885920,448,Del Rey; Reissue edition ,English,4.2 x 1 x 7.5 inches,8 ounces,2
 A Discovery of Witches All Souls Trilogy,12.8,Books > Literature & Fiction > Genre Fiction,Deborah Harkness,143119680,592,Penguin Books; 1st edition ,English,5.5 x 1.3 x 8.5 inches,1 pounds,4
 World War Z,11.48,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense",Max Brooks,307346617,342,Three Rivers Press; 1st edition ,English,5.2 x 0.9 x 8 inches,12 ounces,4
@@ -159,7 +159,7 @@ The Girl Who Kicked the Hornet's Nest Millennium Series,8.74,"Books > Mystery, T
 Find Her Detective D. D. Warren,8.49,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense",Lisa Gardner,451477162,464,Dutton; Reprint edition ,English,4.2 x 1 x 7.6 inches,8.8 ounces,4
 ORIGIN (EN ESPANOL),20.06,Books > Literature & Fiction > Action & Adventure,"BROWN, DAN",525434291,496,Vintage Espanol ,Spanish,6.6 x 1.6 x 9.5 inches,1.8 pounds,4
 "Rainbow Six John Clark Novel, A",8.21,Books > Literature & Fiction > Action & Adventure,Tom Clancy,9.78E+12,912,Berkley ,English,4.2 x 1.4 x 6.9 inches,14.4 ounces,4
-11/22/63,18.68,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense",Stephen King,1451627297,880,Gallery Books; Paperback Edition edition ,English,6 x 2.1 x 9 inches,2.5 pounds,4
+11/22/1963,18.68,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense",Stephen King,1451627297,880,Gallery Books; Paperback Edition edition ,English,6 x 2.1 x 9 inches,2.5 pounds,4
 The Family Business 4,12.5,Books > Literature & Fiction > United States,"Weber, Carl",1622867661,300,Urban Books ,English,6.2 x 1 x 9.3 inches,15.8 ounces,4
 The Sword of Shannara Mass Market Paperback ,9.43,Books > Literature & Fiction > Action & Adventure,"Brooks, Terry",345314255,736,Del Rey; Reissue edition ,English,4.2 x 1.6 x 6.8 inches,13.6 ounces,3
 The Mists of Avalon Paperback ,14.68,Books > Literature & Fiction > Genre Fiction,"Bradley, Marion Zimmer",345350499,912,Del Rey; 1st edition ,English,6.1 x 1.6 x 9.2 inches,1.8 pounds,4
@@ -173,7 +173,7 @@ The First Law Trilogy Paperback ,28.45,Books > Literature & Fiction > Genre Fict
 One Perfect Lie Paperback ,13.58,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense",Lisa Scottoline,1250099579,400,St. Martin's Griffin; Reprint edition ,English,5.6 x 1 x 8.3 inches,11.4 ounces,4
 Personal,8.99,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense","CHILD, LEE",804178755,544,Dell; Reissue edition ,English,4.3 x 1.3 x 7.5 inches,10.4 ounces,3
 Words of Radiance,9.98,Books > Literature & Fiction > Action & Adventure,Brandon Sanderson,765365286,1328,Tor Fantasy ,English,4.2 x 2.1 x 6.8 inches,1.3 pounds,4
-The Bear and the Nightingale,11.0,Books > Literature & Fiction > Action & Adventure,"Arden, Katherine",1101885955,368,Del Rey; Reprint edition ,English,5.5 x 0.8 x 8.2 inches,9.6 ounces,4
+The Bear and the Nightingale,11,Books > Literature & Fiction > Action & Adventure,"Arden, Katherine",1101885955,368,Del Rey; Reprint edition ,English,5.5 x 0.8 x 8.2 inches,9.6 ounces,4
 Baptism of Fire The Witcher,13.71,Books > Literature & Fiction > Genre Fiction,Andrzej Sapkowski David French,316219185,400,Orbit ,English,5.5 x 1 x 8.2 inches,13.6 ounces,4
 Sword Art Online Progressive The Novel 2,12.53,Books > Literature & Fiction > World Literature,Reki Kawahara,316371246,256,Yen On ,English,5.5 x 0.8 x 8.4 inches,7.2 ounces,4
 PHASMA (STAR WARS),17.69,Books > Science Fiction & Fantasy > Science Fiction,"DAWSON, DELILAH S.",152479631X,400,Del Rey ,English,6.3 x 1.4 x 9.5 inches,1.6 pounds,3
@@ -195,7 +195,7 @@ The Quantum Spy,14.11,"Books > Mystery, Thriller & Suspense > Thrillers & Suspen
 15th Affair Women's Murder Club,8.58,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense",James Patterson Maxine Paetro,1455585289,400,Grand Central Publishing ,English,4.2 x 1 x 7.5 inches,7.8 ounces,4
 Something Wicked This Way Comes,10.99,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense","Bradbury, Ray",1501167715,352,Simon & Schuster; Reprint edition ,English,5.5 x 0.9 x 8.4 inches,9.6 ounces,4
 Stalking Jack the Ripper Hardcover ,10.96,Books > Teen & Young Adult > Science Fiction & Fantasy,Kerri Maniscalco,031627349X,336,jimmy patterson ,English,6.5 x 1 x 9.2 inches,14.1 ounces,4
-Deep Freeze A Virgil Flowers Novel,13.0,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense",John Sandford,399176063,400,G.P. Putnam's Sons; 1st Edition edition ,English,6.4 x 1.5 x 9.3 inches,1.3 pounds,4
+Deep Freeze A Virgil Flowers Novel,13,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense",John Sandford,399176063,400,G.P. Putnam's Sons; 1st Edition edition ,English,6.4 x 1.5 x 9.3 inches,1.3 pounds,4
 A Dance with Dragons A Song of Ice and Fire,7.99,Books > Literature & Fiction > Action & Adventure,George R. R. Martin,553582011,1152,Bantam; Reprint edition ,English,4.2 x 1.8 x 6.9 inches,1 pounds,4
 The Girl Before,10.77,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense","DELANEY, JP",425285065,368,Ballantine Books; Reprint edition ,English,5.5 x 0.8 x 8.2 inches,10.2 ounces,4
 Dark Disciple,8.99,Books > Literature & Fiction > Genre Fiction,"GOLDEN, CHRISTIE",1101884959,400,Del Rey; Reissue edition ,English,4.1 x 1 x 7.5 inches,12.6 ounces,4
@@ -204,7 +204,7 @@ Dark Disciple,8.99,Books > Literature & Fiction > Genre Fiction,"GOLDEN, CHRISTI
 Order to Kill ,7.02,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense",Vince Flynn Kyle Mills,1476783497,448,Pocket Books; Reprint edition ,English,4.1 x 0.9 x 7.5 inches,8.2 ounces,4
 Different Seasons,12.39,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense",Stephen King,1501143484,608,Scribner; Reprint edition ,English,5.5 x 1.5 x 8.4 inches,1.2 pounds,4
 Edgedancer,10.06,Books > Literature & Fiction > Action & Adventure,Brandon Sanderson,1250166543,272,Tor Books; F First Edition edition ,English,4.6 x 1 x 7 inches,10.1 ounces,4
-"Is It Wrong to Try to Pick Up Girls in a Dungeon?, Vol. 2 - light novel Is It Wrong to Pick Up Girls in a Dungeon?",14.0,Books > Literature & Fiction > World Literature,Fujino Omori,031644250X,256,Yen On ,English,5.5 x 0.6 x 8.2 inches,8.5 ounces,4
+"Is It Wrong to Try to Pick Up Girls in a Dungeon?, Vol. 2 - light novel Is It Wrong to Pick Up Girls in a Dungeon?",14,Books > Literature & Fiction > World Literature,Fujino Omori,031644250X,256,Yen On ,English,5.5 x 0.6 x 8.2 inches,8.5 ounces,4
 "Is It Wrong to Try to Pick Up Girls in a Dungeon?, Vol. 10 light novel",11.97,Books > Science Fiction & Fantasy > Fantasy,Fujino Omori,316442453,304,Yen On ,English,5.5 x 0.8 x 8.2 inches,10.7 ounces,4
 The No. 1 Ladies' Detective Agency Book 1,9.24,Books > Literature & Fiction > Women's Fiction,"McCall Smith, Alexander",1400034779,235,Anchor ,English,5.2 x 0.7 x 8 inches,4.8 ounces,4
 "TIME TO KILL, A",8.99,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense","GRISHAM, JOHN",440245915,672,Dell ,English,4.2 x 1.5 x 7.5 inches,14.4 ounces,4
@@ -282,7 +282,7 @@ Plum Tea Crazy A Tea Shop Mystery,17.1,"Books > Mystery, Thriller & Suspense > M
 Of Mice and Men Mass Market Paperback ,8.79,Books > Literature & Fiction > Genre Fiction,"STEINBECK, JOHN",140177396,112,Penguin Books; Reissue edition ,English,4.1 x 0.3 x 7.5 inches,2.1 ounces,4
 Girl Last Seen,11.79,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense",Nina Laurin,145556902X,352,Grand Central Publishing ,English,5.2 x 1 x 8.1 inches,8 ounces,3
 Rules of Civility ,10.41,Books > Literature & Fiction > Genre Fiction,Amor Towles,143121162,368,Penguin Books; Reprint edition ,English,5.5 x 0.9 x 8.4 inches,12.8 ounces,4
-Crazy Rich Asians Paperback ,12.0,Books > Literature & Fiction > Genre Fiction,"KWAN, KEVIN",345803787,544,Anchor; Reprint edition ,English,5.2 x 0.9 x 8 inches,11.2 ounces,4
+Crazy Rich Asians Paperback ,12,Books > Literature & Fiction > Genre Fiction,"KWAN, KEVIN",345803787,544,Anchor; Reprint edition ,English,5.2 x 0.9 x 8 inches,11.2 ounces,4
 A Piece of the World,14.88,Books > Literature & Fiction > Genre Fiction,"Kline, Christina Baker",62356275,352,William Morrow Paperbacks; Reprint edition ,English,5.3 x 0.8 x 8 inches,7 ounces,4
 The Kite Runner Paperback ,11.9,Books > Literature & Fiction > Genre Fiction,Khaled Hosseini,159463193X,400,Riverhead Books; 1 edition ,English,5.1 x 1 x 8 inches,1.8 pounds,3
 Fall from Grace,19.77,Books > Literature & Fiction > Genre Fiction,"Steel, Danielle",1101884002,368,Delacorte Press; First Edition edition ,English,6.3 x 1.1 x 9.5 inches,1.2 pounds,4
@@ -308,7 +308,7 @@ A Conjuring of Light,12.38,Books > Literature & Fiction > Action & Adventure,V. 
 DC Super Heroes,22.14,"Books > Children's Books > Activities, Crafts & Games",Matthew Reinhart,316019984,12,"Little, Brown and Company; Pop edition ",English,8.4 x 3.2 x 10.5 inches,2.1 pounds,3
 Fire Touched A Mercy Thompson Novel,7.19,Books > Literature & Fiction > Action & Adventure,Patricia Briggs,425256294,320,Ace; Reissue edition ,English,4.1 x 0.9 x 6.8 inches,5 ounces,4
 Gone Tomorrow Jack Reacher,8.24,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense","CHILD, LEE",440243688,576,Dell; Reprint edition ,English,4.1 x 1.3 x 7.5 inches,11.2 ounces,4
-The Spy Who Came in from the Cold ,13.33,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense",John le Carré,143124757,240,Penguin Books; Reprint edition ,English,5.5 x 0.6 x 8.2 inches,7.8 ounces,4
+The Spy Who Came in from the Cold ,13.33,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense",John le CarrÃ©,143124757,240,Penguin Books; Reprint edition ,English,5.5 x 0.6 x 8.2 inches,7.8 ounces,4
 "SEVENTH PLAGUE, THE",8.78,Books > Literature & Fiction > Action & Adventure,"ROLLINS, JAMES",62381695,640,William Morrow; Reprint edition ,English,4.2 x 1.4 x 7.5 inches,12 ounces,4
 The Demon Crown,15.94,Books > Literature & Fiction > Action & Adventure,"Rollins, James",62381733,464,William Morrow; First Edition edition ,English,6 x 1.4 x 9 inches,1.1 pounds,4
 The Ocean at the End of the Lane,6.48,Books > Literature & Fiction > Genre Fiction,"Gaiman, Neil",62459368,256,William Morrow; Reissue edition ,English,4.2 x 0.6 x 6.8 inches,4.8 ounces,4
@@ -343,7 +343,7 @@ Re,11.97,Books > Teen & Young Adult > Science Fiction & Fantasy,Tappei Nagatsuki
 Silence Fallen A Mercy Thompson Novel,7.99,Books > Literature & Fiction > Action & Adventure,Patricia Briggs,425281280,352,Ace; Reprint edition ,English,4.2 x 0.9 x 6.8 inches,5.8 ounces,4
 "No Game No Life, Vol. 3 - light novel Paperback ",12.29,Books > Science Fiction & Fantasy > Fantasy,Yuu Kamiya,316385190,208,Yen On ,English,5.5 x 0.6 x 8.4 inches,7.8 ounces,4
 "Heir of Novron, Vol. 3Riyria Revelations",14.46,Books > Literature & Fiction > Action & Adventure,Michael J. Sullivan,316187712,960,Orbit; 1 edition ,English,5.5 x 1.8 x 8.2 inches,1.8 pounds,4
-Thrice the Brinded Cat Hath Mew'd,11.0,"Books > Mystery, Thriller & Suspense > Mystery","Bradley, Alan",345539974,368,Bantam; Reprint edition ,English,5.1 x 0.8 x 7.9 inches,9.8 ounces,4
+Thrice the Brinded Cat Hath Mew'd,11,"Books > Mystery, Thriller & Suspense > Mystery","Bradley, Alan",345539974,368,Bantam; Reprint edition ,English,5.1 x 0.8 x 7.9 inches,9.8 ounces,4
 True Believer Mass Market Paperback ,6.39,Books > Literature & Fiction > Genre Fiction,Nicholas Sparks,446618152,480,Grand Central Publishing; Reissue edition ,English,4.1 x 1 x 6.8 inches,4 ounces,4
 The Charm School Paperback ,10.87,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense",Nelson DeMille,1538744287,800,Grand Central Publishing; Reissue edition ,English,5.2 x 2.2 x 8 inches,1.4 pounds,4
 Sojourn,7.19,Books > Literature & Fiction > Action & Adventure,"Salvatore, R. A.",786940077,346,Wizards of the Coast; 1st edition ,English,4.2 x 0.9 x 6.9 inches,6.4 ounces,4
@@ -374,7 +374,7 @@ Kenobi,7.99,Books > Literature & Fiction > Action & Adventure,"MILLER, JOHN JACK
 Mind Game,21.68,"Books > Mystery, Thriller & Suspense > Mystery",Iris Johansen,1250075858,384,St. Martin's Press; 1st edition ,English,6.4 x 1.3 x 9.6 inches,1.3 pounds,4
 The Library at Mount Char Paperback ,13.36,Books > Literature & Fiction > Genre Fiction,"Hawkins, Scott",553418629,400,Broadway Books; Reprint edition ,English,5.2 x 0.9 x 8 inches,11.2 ounces,4
 The Murder at the Vicarage Miss Marple Mysteries,8.98,Books > Literature & Fiction > Genre Fiction,"Christie, Agatha",62073605,304,William Morrow Paperbacks; Reprint edition ,English,5.3 x 0.7 x 8 inches,8 ounces,4
-Jack & Jill Alex Cross,8.0,"Books > Mystery, Thriller & Suspense > Mystery",James Patterson,446604801,480,Vision; Reissue edition ,English,4.2 x 1.2 x 6.8 inches,8.8 ounces,4
+Jack & Jill Alex Cross,8,"Books > Mystery, Thriller & Suspense > Mystery",James Patterson,446604801,480,Vision; Reissue edition ,English,4.2 x 1.2 x 6.8 inches,8.8 ounces,4
 "Day Shift A Novel of Midnight, Texas",8.99,Books > Literature & Fiction > Action & Adventure,Charlaine Harris,425263207,400,Ace ,English,4.2 x 1 x 7.5 inches,7.2 ounces,4
 William Shakespeare's Star Wars Trilogy,28.91,Books > Science Fiction & Fantasy > Science Fiction,"Doescher, Ian",1594747911,520,Quirk Books; Media Tie In edition ,English,6 x 2.5 x 8.6 inches,2.4 pounds,4
 "Dead Beat The Dresden Files, Book 7",8.01,"Books > Mystery, Thriller & Suspense > Mystery",Jim Butcher,045146091X,528,Roc; English Language edition ,English,7.4 x 4.3 x 1.2 inches,8.8 ounces,4
@@ -476,7 +476,7 @@ Bury Your Dead,14.76,"Books > Mystery, Thriller & Suspense > Thrillers & Suspens
 The Perks of Being a Wallflower Paperback ,14.2,Books > Literature & Fiction > Genre Fiction,Stephen Chbosky,1451696191,224,MTV Books; Media Tie-In edition ,English,5 x 0.5 x 7 inches,7.2 ounces,4
 The Beautiful Mystery,14.19,"Books > Mystery, Thriller & Suspense > Mystery",Louise Penny,1250031125,400,Minotaur Books; Reprint edition ,English,5.5 x 1.1 x 8.2 inches,12 ounces,4
 The Grapes of Wrath Paperback ,10.15,Books > Literature & Fiction > Genre Fiction,John Steinbeck,143039431,528,Penguin Classics; Reissue edition ,English,5.1 x 0.9 x 7.7 inches,12.8 ounces,4
-Beren and Lúthien Hardcover ,22.0,Books > Science Fiction & Fantasy > Fantasy,J.R.R. Tolkien,1328791823,288,Houghton Mifflin Harcourt; 1st Edition edition ,English,5.5 x 1 x 8.2 inches,2 pounds,4
+Beren and LÃºthien Hardcover ,22,Books > Science Fiction & Fantasy > Fantasy,J.R.R. Tolkien,1328791823,288,Houghton Mifflin Harcourt; 1st Edition edition ,English,5.5 x 1 x 8.2 inches,2 pounds,4
 Magpie Murders,15.22,"Books > Mystery, Thriller & Suspense > Thrillers & Suspense",Anthony Horowitz,62645226,496,Harper; 1st Edition edition ,English,6 x 1.5 x 9 inches,1.4 pounds,4
 "A Trick of the Light Chief Inspector Gamache, Book 7",14.53,"Books > Mystery, Thriller & Suspense > Mystery",Louise Penny,1250007348,368,Minotaur Books; 4th Print edition ,English,5.6 x 1 x 8.2 inches,14.4 ounces,4
 The Girl in the Spider's Web Millennium Series,7.48,"Books > Mystery, Thriller & Suspense > Mystery","LAGERCRANTZ, DAVID",525434763,544,Vintage Crime/Black Lizard; Reprint edition ,English,4.2 x 1.1 x 7.6 inches,9.8 ounces,3
